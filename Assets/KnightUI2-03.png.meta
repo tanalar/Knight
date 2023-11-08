@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: e5c26b4ae15eff540989fe850886630d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightUI2-03_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3786
+        width: 1510
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9edfffe1bb224e91d7ca3669ea3f1
+      internalID: 1453765664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_2
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 3721
+        width: 456
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a8dc4f5d9cc3408f67b26d0386d26
+      internalID: -1951855981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_4
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3738
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092ae6dc4d844c4cb160d2869ea972f
+      internalID: -764459820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_6
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3739
+        width: 424
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3cf7df3df1c5143b6063f68e2014d3
+      internalID: 28453408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_7
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 3754
+        width: 366
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c2ed42be0e714cb4c2d53460ae2ec
+      internalID: 1709035861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_17
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 2242
+        width: 650
+        height: 1706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a807ec046e2c6646884ee74ffde2ce1
+      internalID: 1832873572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_38
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3272
+        width: 421
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edfefddaef90d4ca04168e35011326
+      internalID: -1310164637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_39
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3272
+        width: 421
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e65d7599548d48a367e04a976e34e
+      internalID: -262895860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_40
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 3442
+        width: 317
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33203be2c57d94c4a876b69b8ea06970
+      internalID: -2090729367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3245
+        width: 1510
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b9c3784d9e7d4181ecad797353a1b
+      internalID: 945454857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_63
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 3105
+        width: 289
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8108ef0d15d4242b4181f6d93b9f2e
+      internalID: -1920283412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_79
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2825
+        width: 425
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d94d3fc3093bb4da201328847435e9
+      internalID: 1706073089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_80
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2828
+        width: 424
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5712a7a93155489f20cfd971b240a
+      internalID: -836681501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_83
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3002
+        width: 205
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ec827de54ae84e97630aa1d7b013c
+      internalID: -748142239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_85
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3012
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338279fce084f5459a248803d36cd20
+      internalID: -935185443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_88
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 3047
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec90b2bc89804d48825409b6dbdd861
+      internalID: 569352718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_98
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 2791
+        width: 284
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd3d2a89e07d74595fdde9d02b5de1
+      internalID: 1964574026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_111
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2823
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ac37992a3f604e88e792afda3d0f9
+      internalID: -902643988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_115
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2822
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85fb76fc951a494d989de00179b581c
+      internalID: -2116986873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_131
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1450
+        width: 2095
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810bf6637124664b94e03695da4d59e
+      internalID: -38910146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_135
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1472
+        width: 2054
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fa6b400b2aaee458398eef32db1673
+      internalID: -1734381628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_138
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 1674
+        width: 495
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f5e465828eaf34c8918752b3470d83
+      internalID: 1304455828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_206
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 1102
+        width: 498
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b56ba86c3e3b9744bed10a3c26d3153
+      internalID: -2098508331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_215
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 2059
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f026008cc17a429b0deaab9586e74
+      internalID: 9993867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_216
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 84
+        width: 2052
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2438cbe36dd204d8a6816069bb6f55
+      internalID: 226078329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-03_231
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 618
+        width: 255
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80383d4023eee4c48a22c589cb77dcb0
+      internalID: -1811091378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0b38a0438682b84a84097be197a94d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KnightUI2-03_195: -1589551421
+      KnightUI2-03_109: 766381672
+      KnightUI2-03_147: -1251779783
+      KnightUI2-03_161: -550350651
+      KnightUI2-03_31: -1359504020
+      KnightUI2-03_50: -1985672413
+      KnightUI2-03_148: -282749885
+      KnightUI2-03_92: 1790733174
+      KnightUI2-03_87: -1801023437
+      KnightUI2-03_58: -1654979402
+      KnightUI2-03_121: -718054259
+      KnightUI2-03_96: -478139761
+      KnightUI2-03_229: 1462730290
+      KnightUI2-03_120: 1816226686
+      KnightUI2-03_160: 1362789959
+      KnightUI2-03_53: 740025369
+      KnightUI2-03_64: -634129806
+      KnightUI2-03_196: 1566311058
+      KnightUI2-03_95: -740614614
+      KnightUI2-03_209: 1756871142
+      KnightUI2-03_162: -209728643
+      KnightUI2-03_43: 945454857
+      KnightUI2-03_40: -2090729367
+      KnightUI2-03_2: -1951855981
+      KnightUI2-03_181: 2131792271
+      KnightUI2-03_86: 855536403
+      KnightUI2-03_150: 1718810062
+      KnightUI2-03_66: -241976905
+      KnightUI2-03_173: -355305761
+      KnightUI2-03_179: -725964330
+      KnightUI2-03_41: -1462694073
+      KnightUI2-03_1: -581766681
+      KnightUI2-03_178: 13147273
+      KnightUI2-03_94: -561743439
+      KnightUI2-03_71: -1799045065
+      KnightUI2-03_13: -1883675174
+      KnightUI2-03_141: -556769664
+      KnightUI2-03_70: -637145914
+      KnightUI2-03_15: 1867245704
+      KnightUI2-03_232: 129053660
+      KnightUI2-03_172: -1552414828
+      KnightUI2-03_68: 170338595
+      KnightUI2-03_190: 1003564997
+      KnightUI2-03_36: -1635609123
+      KnightUI2-03_198: -254823884
+      KnightUI2-03_216: 226078329
+      KnightUI2-03_26: -1518370291
+      KnightUI2-03_131: -38910146
+      KnightUI2-03_84: 1998319890
+      KnightUI2-03_23: -1739732234
+      KnightUI2-03_126: 274928125
+      KnightUI2-03_169: -1602034556
+      KnightUI2-03_17: 1832873572
+      KnightUI2-03_123: 2111988648
+      KnightUI2-03_211: -977384974
+      KnightUI2-03_115: -2116986873
+      KnightUI2-03_32: 12611426
+      KnightUI2-03_12: -1080746947
+      KnightUI2-03_113: 1216430062
+      KnightUI2-03_16: -906478868
+      KnightUI2-03_165: -1160319002
+      KnightUI2-03_67: 479270730
+      KnightUI2-03_46: 1768613571
+      KnightUI2-03_75: 1891104310
+      KnightUI2-03_62: -2025227940
+      KnightUI2-03_29: 424437105
+      KnightUI2-03_183: 495916229
+      KnightUI2-03_0: 1453765664
+      KnightUI2-03_145: -776588577
+      KnightUI2-03_69: 1510898285
+      KnightUI2-03_4: -764459820
+      KnightUI2-03_99: 1898911470
+      KnightUI2-03_180: -923646002
+      KnightUI2-03_27: -1636787126
+      KnightUI2-03_203: 876311759
+      KnightUI2-03_128: 108661126
+      KnightUI2-03_223: 1042727603
+      KnightUI2-03_218: -740559418
+      KnightUI2-03_201: -702750639
+      KnightUI2-03_54: -142216330
+      KnightUI2-03_118: 1499526817
+      KnightUI2-03_73: 851232960
+      KnightUI2-03_124: 1732968254
+      KnightUI2-03_77: 438428978
+      KnightUI2-03_132: -1077815876
+      KnightUI2-03_72: 652695120
+      KnightUI2-03_33: -522608883
+      KnightUI2-03_85: -935185443
+      KnightUI2-03_19: 445218038
+      KnightUI2-03_82: 725883864
+      KnightUI2-03_55: -119867551
+      KnightUI2-03_153: 524118461
+      KnightUI2-03_51: 283147719
+      KnightUI2-03_116: -772278096
+      KnightUI2-03_88: 569352718
+      KnightUI2-03_6: 28453408
+      KnightUI2-03_37: 572330784
+      KnightUI2-03_130: 1135761654
+      KnightUI2-03_83: -748142239
+      KnightUI2-03_5: 665143765
+      KnightUI2-03_9: 625762907
+      KnightUI2-03_101: 1823698255
+      KnightUI2-03_210: -983852698
+      KnightUI2-03_79: 1706073089
+      KnightUI2-03_149: -1084909370
+      KnightUI2-03_231: -1811091378
+      KnightUI2-03_20: -955194650
+      KnightUI2-03_208: 2010706305
+      KnightUI2-03_194: 1383589665
+      KnightUI2-03_142: 1813433442
+      KnightUI2-03_188: -1983024348
+      KnightUI2-03_21: 2078382293
+      KnightUI2-03_207: -410705339
+      KnightUI2-03_219: -1986150530
+      KnightUI2-03_170: 1918990038
+      KnightUI2-03_227: -57302254
+      KnightUI2-03_138: 1304455828
+      KnightUI2-03_215: 9993867
+      KnightUI2-03_103: -1935267609
+      KnightUI2-03_163: -720356283
+      KnightUI2-03_230: 1589882147
+      KnightUI2-03_197: -1680428783
+      KnightUI2-03_205: -88282043
+      KnightUI2-03_90: 1949262121
+      KnightUI2-03_106: -1526816174
+      KnightUI2-03_133: -710943843
+      KnightUI2-03_8: -192077090
+      KnightUI2-03_239: -1777471573
+      KnightUI2-03_14: 75103916
+      KnightUI2-03_65: -1007619583
+      KnightUI2-03_157: -1297438036
+      KnightUI2-03_187: -403021364
+      KnightUI2-03_48: 1886011394
+      KnightUI2-03_63: -1920283412
+      KnightUI2-03_125: -1210893356
+      KnightUI2-03_220: -1040647199
+      KnightUI2-03_139: 1506199874
+      KnightUI2-03_199: -902693598
+      KnightUI2-03_192: 1491872420
+      KnightUI2-03_76: -1240140191
+      KnightUI2-03_108: -987593640
+      KnightUI2-03_213: 1914434017
+      KnightUI2-03_214: 1018683181
+      KnightUI2-03_151: -2062652430
+      KnightUI2-03_167: -2050227399
+      KnightUI2-03_217: 599220165
+      KnightUI2-03_80: -836681501
+      KnightUI2-03_204: 236878242
+      KnightUI2-03_30: -1412369856
+      KnightUI2-03_171: 1353617953
+      KnightUI2-03_25: 1364090875
+      KnightUI2-03_134: 2077394597
+      KnightUI2-03_189: -58455345
+      KnightUI2-03_89: -973221646
+      KnightUI2-03_233: -694166466
+      KnightUI2-03_44: -1288098578
+      KnightUI2-03_59: -300759951
+      KnightUI2-03_119: 573411758
+      KnightUI2-03_127: 976537445
+      KnightUI2-03_38: -1310164637
+      KnightUI2-03_186: -187330889
+      KnightUI2-03_111: -902643988
+      KnightUI2-03_166: -961409833
+      KnightUI2-03_7: 1709035861
+      KnightUI2-03_28: -1663316408
+      KnightUI2-03_97: -696220433
+      KnightUI2-03_177: -293719088
+      KnightUI2-03_3: 1284938720
+      KnightUI2-03_104: -1367327527
+      KnightUI2-03_136: 1999178413
+      KnightUI2-03_91: -510068115
+      KnightUI2-03_107: 357731619
+      KnightUI2-03_11: -287905138
+      KnightUI2-03_175: -1940509904
+      KnightUI2-03_140: -1523391265
+      KnightUI2-03_117: -662311659
+      KnightUI2-03_122: 1161234691
+      KnightUI2-03_47: -807389127
+      KnightUI2-03_224: -2005858905
+      KnightUI2-03_105: 1441943851
+      KnightUI2-03_225: 1127591145
+      KnightUI2-03_56: 451010107
+      KnightUI2-03_206: -2098508331
+      KnightUI2-03_185: -1203472495
+      KnightUI2-03_93: -1579061834
+      KnightUI2-03_221: 1500180974
+      KnightUI2-03_200: -828945114
+      KnightUI2-03_146: -70732286
+      KnightUI2-03_60: 860883252
+      KnightUI2-03_191: -1427742382
+      KnightUI2-03_35: 480925050
+      KnightUI2-03_129: 1726534650
+      KnightUI2-03_45: -1858464034
+      KnightUI2-03_18: -1040802667
+      KnightUI2-03_102: 1526598825
+      KnightUI2-03_182: -1533399081
+      KnightUI2-03_42: -454334460
+      KnightUI2-03_168: 199576018
+      KnightUI2-03_202: 1090269316
+      KnightUI2-03_78: -62084918
+      KnightUI2-03_143: 1286922268
+      KnightUI2-03_164: -550796304
+      KnightUI2-03_237: -20387561
+      KnightUI2-03_238: -597972294
+      KnightUI2-03_235: 850503152
+      KnightUI2-03_24: -1741382856
+      KnightUI2-03_57: -848488116
+      KnightUI2-03_52: -501608458
+      KnightUI2-03_81: 638555323
+      KnightUI2-03_154: -155269461
+      KnightUI2-03_10: 1000380054
+      KnightUI2-03_222: 1458555928
+      KnightUI2-03_174: -554733249
+      KnightUI2-03_49: -997807700
+      KnightUI2-03_212: -707089503
+      KnightUI2-03_110: -436767777
+      KnightUI2-03_144: -408573587
+      KnightUI2-03_234: 1210804947
+      KnightUI2-03_39: -262895860
+      KnightUI2-03_155: -1350535979
+      KnightUI2-03_159: -1183919180
+      KnightUI2-03_137: 1104520700
+      KnightUI2-03_152: 947231849
+      KnightUI2-03_236: -1799923425
+      KnightUI2-03_228: 108367804
+      KnightUI2-03_156: -223858136
+      KnightUI2-03_22: -240731691
+      KnightUI2-03_98: 1964574026
+      KnightUI2-03_112: -1291816713
+      KnightUI2-03_61: -1653404552
+      KnightUI2-03_34: -14698024
+      KnightUI2-03_158: 1492348064
+      KnightUI2-03_176: 1654538383
+      KnightUI2-03_135: -1734381628
+      KnightUI2-03_100: 1193223729
+      KnightUI2-03_226: 242389783
+      KnightUI2-03_193: -1212793046
+      KnightUI2-03_74: -1462738624
+      KnightUI2-03_184: -1939339506
+      KnightUI2-03_114: -930596867
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 30e7446ce2f10534ab5a033f53fda1d6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightUI2-05_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1000
+        width: 489
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610838babbd73b43a6ac9291067a20b
+      internalID: -204317019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-05_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 514
+        width: 362
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff5f6151f506b439c73238ae2d86d1
+      internalID: -32805318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightUI2-05_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 291
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965525efb2297f4fb46b7d3e5991ff2
+      internalID: 1328973896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e16e07c3d272e94792fb6be481dde52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KnightUI2-05_20: 445982951
+      KnightUI2-05_8: 313493894
+      KnightUI2-05_47: -1967058500
+      KnightUI2-05_12: -1658336138
+      KnightUI2-05_31: -1528773704
+      KnightUI2-05_14: 781651880
+      KnightUI2-05_22: -1911879784
+      KnightUI2-05_38: 930265093
+      KnightUI2-05_34: 2119384750
+      KnightUI2-05_32: 792817172
+      KnightUI2-05_44: 801438946
+      KnightUI2-05_10: 1112478717
+      KnightUI2-05_17: 55325800
+      KnightUI2-05_37: -1158793961
+      KnightUI2-05_26: -153686975
+      KnightUI2-05_45: 1584684568
+      KnightUI2-05_30: 2092881821
+      KnightUI2-05_48: -1345318420
+      KnightUI2-05_50: -1251524326
+      KnightUI2-05_2: 443006013
+      KnightUI2-05_1: 1670001770
+      KnightUI2-05_13: 541368149
+      KnightUI2-05_5: 693179943
+      KnightUI2-05_27: -32805318
+      KnightUI2-05_11: -1225721113
+      KnightUI2-05_3: 1964260791
+      KnightUI2-05_46: 2095697554
+      KnightUI2-05_4: 1854637863
+      KnightUI2-05_6: -609539940
+      KnightUI2-05_7: 1600139421
+      KnightUI2-05_42: 1188501168
+      KnightUI2-05_51: 94754316
+      KnightUI2-05_35: 949771933
+      KnightUI2-05_28: 1291830606
+      KnightUI2-05_23: -1643887296
+      KnightUI2-05_21: -1119524478
+      KnightUI2-05_36: 1389882630
+      KnightUI2-05_24: 782871300
+      KnightUI2-05_40: 109132401
+      KnightUI2-05_9: -518028588
+      KnightUI2-05_33: 1041739185
+      KnightUI2-05_16: -128681605
+      KnightUI2-05_39: 1683001948
+      KnightUI2-05_43: 1328973896
+      KnightUI2-05_49: 803403146
+      KnightUI2-05_25: -487034033
+      KnightUI2-05_0: -204317019
+      KnightUI2-05_15: 1735880194
+      KnightUI2-05_29: 253931783
+      KnightUI2-05_41: 823294048
+      KnightUI2-05_19: -281287820
+      KnightUI2-05_18: 488446006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
